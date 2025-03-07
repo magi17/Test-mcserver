@@ -1,5 +1,5 @@
 # Test-mcserver
 
 ```bash
-apt upgrade| apt update -y
+apt upgrade &&  apt update -y
 ```
